@@ -11,7 +11,7 @@
 ## 🌐 Coding Profiles:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sapnil_Biswas/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sap__)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://codolio.com/profile/Sap__)
+[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://codolio.com/profile/Sap)
 
 ---
 
