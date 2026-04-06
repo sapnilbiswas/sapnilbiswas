@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Energetic Coder" />
+<img align="right" width="350" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Energetic Coder" />
 
 - 💻 I’m currently heavily focused on **Competitive Programming** and building modern **Web Applications**.
 - 🤝 I’m looking to collaborate on **open source web projects**, **algorithmic challenges**, and **hackathons**.
@@ -64,12 +64,7 @@ A quick look at the vital FastAPI endpoints that form the backbone of the extens
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapnilbiswas&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
-  <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapnilbiswas&theme=dark" alt="GitHub Stats Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sapnilbiswas&theme=dark" alt="Activity Overview Radar Graph" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sapnilbiswas&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
