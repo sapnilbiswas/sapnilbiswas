@@ -1,41 +1,91 @@
-# 💫 About Me:
-💻 I’m currently working on Open Source contributions across multiple projects<br>
-🤝 I’m looking to collaborate on beginner-friendly issues, backend projects, and real-world applications<br>
-🆘 I’m looking for help with writing clean production-level code and understanding large codebases<br>
-🌱 I’m currently learning system design basics, backend development, and open source workflows<br>
-💬 Ask me about my open source journey, first contributions, and getting started<br>
-⚡ Fun fact: I enjoy turning “good first issues” into real learning opportunities 🚀
+<div align="center">
+
+# 🚀 Hi, I'm Sapnil Biswas!  
+### Competitive Programmer | Web Developer | Open Source Contributor
+<p>
+    <a href="https://leetcode.com/u/Sapnil_Biswas/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://codeforces.com/profile/Sap__"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+    <a href="https://codolio.com/profile/Sap"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Codolio" /></a>
+    <a href="https://instagram.com/sapnil.biswas.98"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a> 
+    <a href="mailto:sapnilbiswas010506@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+</div>
 
 ---
 
-## 🌐 Coding Profiles:
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sapnil_Biswas/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Sap__)
-[![Codolio](https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://codolio.com/profile/Sap)
+## 💫 About Me
+- 💻 I’m currently heavily focused on **Competitive Programming** and building modern **Web Applications**.
+- 🤝 I’m looking to collaborate on **open source web projects**, **algorithmic challenges**, and **hackathons**.
+- 🌱 I’m currently sharpening my skills in **advanced data structures**, **full-stack web development**, and continuous problem-solving.
+- 💬 Ask me about dynamic programming, web tech stacks, and my competitive programming journey!
+- ⚡ **Fun fact:** I enjoy turning *“good first issues”* into massive learning opportunities 🚀.
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sapnil.biswas.98) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sapnilbiswas010506@gmail.com)
+## 🛡️ Featured Open Source Project: ExtensionShield
+> I actively contribute to [**ExtensionShield**](https://github.com/Stanzin7/ExtensionShield) — a comprehensive Chrome Extension Security Scanner & Governance Platform. My focus has been heavily centered on detailing the **API Architecture** and **System Flows**.
+
+### 📊 System Architecture & Workflow
+Here is a high-level flowchart representing the core workflow and backend architecture of the project:
+
+```mermaid
+graph TD
+    A([Client / User]) -->|Upload CRX or Submit ID| B(FastAPI Gateway)
+    B --> C{Source Engine}
+    C -->|Web Store| D[Download Payload via API]
+    C -->|Upload| E[Extract ZIP/CRX]
+    
+    D & E --> F[Core Analysis Engine]
+    
+    F --> G[SAST / Code Scan]
+    F --> H[Permissions Audit]
+    F --> I[Manifest Checks]
+    
+    G & H & I --> J{Scoring Algorithm}
+    J --> K[Generate Detailed Security Report]
+    K --> L[(SQLite / Database)]
+    L --> M([Return JSON API Response])
+```
+
+### 🔌 API Infrastructure Highlights
+A quick look at the vital FastAPI endpoints that form the backbone of the extension auditing service:
+
+| Request Type | API Endpoint | Target Responsibility |
+|--------------|--------------|----------------|
+| 🟢 `POST` | `/api/scan/trigger` | Triggers a deep scan for Web Store extensions. |
+| 🟢 `POST` | `/api/scan/upload` | Securely processes local CRX/ZIP payloads. |
+| 🔵 `GET`  | `/api/scan/status/{id}` | Real-time polling for security scan progress. |
+| 🔵 `GET`  | `/api/scan/results/{id}`| Retrieves detailed security and permissions breakdowns. |
+| 🔵 `GET`  | `/api/scan/report/{id}` | Exportable governance & compliance reports. |
 
 ---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sapnilbiswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sapnilbiswas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sapnilbiswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=sapnilbiswas&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sapnilbiswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sapnilbiswas&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnilbiswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+    <br/>
+    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=sapnilbiswas&icon=0&color=0" alt="Profile Views" /></a>
+</div>
