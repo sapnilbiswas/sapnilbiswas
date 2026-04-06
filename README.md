@@ -15,38 +15,23 @@
 ---
 
 ## 💫 About Me
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Energetic Coder" />
+
 - 💻 I’m currently heavily focused on **Competitive Programming** and building modern **Web Applications**.
 - 🤝 I’m looking to collaborate on **open source web projects**, **algorithmic challenges**, and **hackathons**.
 - 🌱 I’m currently sharpening my skills in **advanced data structures**, **full-stack web development**, and continuous problem-solving.
 - 💬 Ask me about dynamic programming, web tech stacks, and my competitive programming journey!
 - ⚡ **Fun fact:** I enjoy turning *“good first issues”* into massive learning opportunities 🚀.
 
+<br clear="both" />
+
 ---
 
 ## 🛡️ Featured Open Source Project: ExtensionShield
 > I actively contribute to [**ExtensionShield**](https://github.com/Stanzin7/ExtensionShield) — a comprehensive Chrome Extension Security Scanner & Governance Platform. My focus has been heavily centered on detailing the **API Architecture** and **System Flows**.
 
-### 📊 System Architecture & Workflow
-Here is a high-level flowchart representing the core workflow and backend architecture of the project:
 
-```mermaid
-graph TD
-    A([Client / User]) -->|Upload CRX or Submit ID| B(FastAPI Gateway)
-    B --> C{Source Engine}
-    C -->|Web Store| D[Download Payload via API]
-    C -->|Upload| E[Extract ZIP/CRX]
-    
-    D & E --> F[Core Analysis Engine]
-    
-    F --> G[SAST / Code Scan]
-    F --> H[Permissions Audit]
-    F --> I[Manifest Checks]
-    
-    G & H & I --> J{Scoring Algorithm}
-    J --> K[Generate Detailed Security Report]
-    K --> L[(SQLite / Database)]
-    L --> M([Return JSON API Response])
-```
 
 ### 🔌 API Infrastructure Highlights
 A quick look at the vital FastAPI endpoints that form the backbone of the extension auditing service:
@@ -79,10 +64,12 @@ A quick look at the vital FastAPI endpoints that form the backbone of the extens
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sapnilbiswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sapnilbiswas&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sapnilbiswas&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnilbiswas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sapnilbiswas&theme=dark" alt="GitHub Stats Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sapnilbiswas&theme=dark" alt="Activity Overview Radar Graph" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sapnilbiswas&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
