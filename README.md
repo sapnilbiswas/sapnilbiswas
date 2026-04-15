@@ -31,19 +31,6 @@
 ## 🛡️ Featured Open Source Project: ExtensionShield
 > I actively contribute to [**ExtensionShield**](https://github.com/Stanzin7/ExtensionShield) — a comprehensive Chrome Extension Security Scanner & Governance Platform. My focus has been heavily centered on detailing the **API Architecture** and **System Flows**.
 
-
-
-### 🔌 API Infrastructure Highlights
-A quick look at the vital FastAPI endpoints that form the backbone of the extension auditing service:
-
-| Request Type | API Endpoint | Target Responsibility |
-|--------------|--------------|----------------|
-| 🟢 `POST` | `/api/scan/trigger` | Triggers a deep scan for Web Store extensions. |
-| 🟢 `POST` | `/api/scan/upload` | Securely processes local CRX/ZIP payloads. |
-| 🔵 `GET`  | `/api/scan/status/{id}` | Real-time polling for security scan progress. |
-| 🔵 `GET`  | `/api/scan/results/{id}`| Retrieves detailed security and permissions breakdowns. |
-| 🔵 `GET`  | `/api/scan/report/{id}` | Exportable governance & compliance reports. |
-
 ---
 
 ## 💻 Tech Stack
