@@ -6,7 +6,6 @@
     <a href="https://leetcode.com/u/Sapnil_Biswas/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://codeforces.com/profile/Sap__"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
     <a href="https://codolio.com/profile/Sap"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Codolio" /></a>
-    <a href="https://instagram.com/sapnil.biswas.98"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a> 
     <a href="mailto:sapnilbiswas010506@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
