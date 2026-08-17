@@ -131,12 +131,12 @@ React front end, `isolate` sandboxing, BullMQ/Redis job queue, PostgreSQL, and t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sapnilbiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sapnilbiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sapnilbiswas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapnilbiswas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sapnilbiswas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -148,7 +148,7 @@ React front end, `isolate` sandboxing, BullMQ/Redis job queue, PostgreSQL, and t
 
 <br/><br/>
 
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=sapnilbiswas&icon=0&color=0" alt="Profile Views" /></a>
+<img src="https://komarev.com/ghpvc/?username=sapnilbiswas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 <br/>
 
