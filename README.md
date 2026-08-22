@@ -132,7 +132,7 @@ React front end, `isolate` sandboxing, BullMQ/Redis job queue, PostgreSQL, and t
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sapnilbiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sapnilbiswas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="165" src="https://streak-stats.demolab.com/?user=sapnilbiswas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
