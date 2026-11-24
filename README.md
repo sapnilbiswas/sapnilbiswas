@@ -5,6 +5,7 @@
 <br/>
 
 <a href="mailto:sapnilbiswas010506@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.drupal.org/project/auto_translation_field"><img src="https://img.shields.io/badge/Drupal-0B1220?style=for-the-badge&logo=drupal&logoColor=0678BE" alt="Drupal" /></a>
 <a href="https://codeforces.com/profile/Sap__"><img src="https://img.shields.io/badge/Codeforces-0B1220?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 <a href="https://leetcode.com/u/Sapnil_Biswas/"><img src="https://img.shields.io/badge/LeetCode-0B1220?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <a href="https://codolio.com/profile/Sap"><img src="https://img.shields.io/badge/Codolio-0B1220?style=for-the-badge&logo=firefox&logoColor=white" alt="Codolio" /></a>
@@ -13,10 +14,11 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>GSoC '26</h3><sub>Drupal</sub></td>
-<td align="center" width="25%"><h3>50+</h3><sub>commits merged<br/>to Music Blocks</sub></td>
-<td align="center" width="25%"><h3>300+</h3><sub>problems solved</sub></td>
-<td align="center" width="25%"><h3>2029</h3><sub>B.E. CSE (AI &amp; ML)<br/>Mirai School of Technology</sub></td>
+<td align="center" width="20%"><h3>GSoC '26</h3><sub>Drupal</sub></td>
+<td align="center" width="20%"><h3>30+</h3><sub>merged PRs<br/>Kubescape</sub></td>
+<td align="center" width="20%"><h3>15+</h3><sub>merged PRs<br/>Headlamp</sub></td>
+<td align="center" width="20%"><h3>59+</h3><sub>merged PRs<br/>Music Blocks</sub></td>
+<td align="center" width="20%"><h3>300+</h3><sub>problems solved</sub></td>
 </tr>
 </table>
 
@@ -24,34 +26,55 @@
 
 <br/>
 
-> I build backend-heavy tools, contribute to open source, and solve algorithm problems. Right now I'm working on AI-powered translation for Drupal and a proposal to make Kyverno easier to contribute to.
+> I'm a second-year B.E. CSE (AI & ML) student at Mirai School of Technology (Class of 2029), based in Bengaluru. I build backend-heavy tools, contribute to open source, and solve algorithm problems. Most of my recent work is security fixes and tests in Kubescape and Headlamp, plus an AI translation module for Drupal.
 
 <br/>
 
-## Now
+## Linux Foundation Badges
 
-**Google Summer of Code 2026, Drupal.** Building `auto_translation_field`, an AI-powered field translation module that integrates directly with Drupal's `AiProviderManager`. Mentored by Pooja Sharma and Aditya Bathani.
+<div align="center">
 
-**LFX Mentorship proposal, Kyverno.** Wrote *"AI-Ready Kyverno Dev: Repo Restructuring, Agent Docs, and an AI Maintainer Assistant,"* backed by a working Go scaffold with unit and golden-file tests.
+<a href="https://www.credly.com/badges/ea1fe247-f1e3-48a9-b136-2f91ac00c016"><img src="https://images.credly.com/images/c6ee59fc-4825-4c39-bcb6-8facb3fa78be/linkedin_thumb_blob" width="130" alt="Security Slam Fall 2026 Defender badge, The Linux Foundation" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/9684716d-a945-42f3-993b-74d32d43875f"><img src="https://images.credly.com/images/ddbb517d-eddf-4cb5-ad98-82ead31a191d/linkedin_thumb_blob" width="130" alt="Security Slam 2026 Security Advocate badge, The Linux Foundation" /></a>
 
-**Sugar Labs, Music Blocks.** Contributor to a block-based programming environment that teaches music and coding to kids.
+<sub><b>Security Slam Fall 2026 Defender</b> &nbsp;·&nbsp; <b>Security Slam 2026 Security Advocate</b><br/>Issued by The Linux Foundation, verified on Credly</sub>
+
+</div>
 
 <br/>
 
-## Selected Work
+## Open Source Contributions
+
+I'm an active contributor in the Linux Foundation and CNCF ecosystem, and I keep sending more.
+
+| Project | Where | What I work on | Contributions |
+|---|---|---|---|
+| [**Kubescape**](https://github.com/kubescape/kubescape) | CNCF | Security hardening against unbounded input (CWE-400) in file reads, decrypt, pss, vap, resourcehandler and fixhandler. Unit tests for operator commands, CLI plugin modes, registry credential helpers and report crypto. | [30+ merged PRs](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Asapnilbiswas+is%3Amerged) |
+| [**Headlamp**](https://github.com/kubernetes-sigs/headlamp) | Kubernetes SIG UI | Security fixes in the backend and frontend: Content-Type check in `handleSetToken`, Referrer-Policy header, SPA index revalidation, URL scheme validation, OIDC token and claims verification before caching. Tests for `TimezoneSelect` and `TileChart`. | [15+ merged PRs](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3Asapnilbiswas+is%3Amerged), more open |
+| [**Drupal**](https://www.drupal.org/project/auto_translation_field) | Drupal.org | GSoC 2026 contributor and project maintainer. Built `auto_translation_field` (details below). | 55+ contribution credits |
+| [**Music Blocks**](https://github.com/sugarlabs/musicblocks) | Sugar Labs | Code reviewer and contributor to a block-based programming environment that teaches music and coding to kids. | [59+ merged PRs](https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+author%3Asapnilbiswas+is%3Amerged) |
+| [**ExtensionShield**](https://github.com/Stanzin7/ExtensionShield) | Independent | Maintainer. I own the API architecture. | See below |
+
+<br/>
+
+## Drupal: Google Summer of Code 2026
+
+### [`auto_translation_field`](https://www.drupal.org/project/auto_translation_field)
+<sub>DRUPAL 11 MODULE · GSOC 2026 · MENTORED BY POOJA SHARMA</sub>
+
+A field-level "Translate with AI" button inside the Drupal content edit form. Instead of translating a whole entity at once, editors translate one field, check the result, and keep or discard it. It sits on top of Drupal's own AI provider layer (`AiProviderManager`), so any installed provider such as DeepL, OpenAI, Gemini or Ollama works without a custom provider system.
+
+It ships a `FieldTranslationService`, an AJAX endpoint, a field widget hook and GitLab CI. The project lives on [Drupal.org](https://www.drupal.org/project/auto_translation_field).
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Drupal%2011-0678BE?style=flat-square&logo=drupal&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+
+<br/>
+
+## Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### `auto_translation_field`
-<sub>DRUPAL 11 MODULE · GSOC 2026</sub>
-
-Field translation built on Drupal's native AI provider ecosystem instead of a custom provider layer. Ships a `FieldTranslationService`, an AJAX endpoint, a field widget hook and GitLab CI.
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white"/>
-
-</td>
 <td width="50%" valign="top">
 
 ### [ExtensionShield](https://github.com/Stanzin7/ExtensionShield)
@@ -62,8 +85,6 @@ A governance platform for auditing browser extensions. I own the API architectur
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### FinovaAI
@@ -74,7 +95,9 @@ Node.js/Express and MongoDB backend with a Python/Flask ML microservice. Fraud f
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### AlgoNexus
 <sub>COMPETITIVE PROGRAMMING JUDGE &amp; LMS</sub>
@@ -103,6 +126,12 @@ A LeetCode-style platform: React front end with a Monaco editor, `isolate` sandb
 
 <br/>
 
+## Competitive Programming
+
+300+ LeetCode problems solved. Codeforces handle `Sap__`, Pupil rating 1200+.
+
+<br/>
+
 ## Stack
 
 <div align="center">
@@ -113,21 +142,7 @@ A LeetCode-style platform: React front end with a Monaco editor, `isolate` sandb
 
 <br/>
 
-## Activity
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=sapnilbiswas&show_icons=true&theme=transparent&title_color=0678BE&icon_color=0678BE&text_color=9CA3AF&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sapnilbiswas&show_icons=true&theme=default&title_color=0678BE&icon_color=0678BE&text_color=374151&hide_border=true&count_private=true" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sapnilbiswas&layout=compact&theme=transparent&title_color=0678BE&text_color=9CA3AF&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sapnilbiswas&layout=compact&theme=default&title_color=0678BE&text_color=374151&hide_border=true" alt="Top languages" />
-</picture>
-
-<br/><br/>
-
 
 <img src="https://komarev.com/ghpvc/?username=sapnilbiswas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
