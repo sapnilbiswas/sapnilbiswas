@@ -48,13 +48,13 @@
 
 I'm an active contributor in the Linux Foundation and CNCF ecosystem, and I keep sending more.
 
-| Project | Where | What I work on | Contributions |
-|---|---|---|---|
-| [**Kubescape**](https://github.com/kubescape/kubescape) | CNCF | Security hardening against unbounded input (CWE-400) in file reads, decrypt, pss, vap, resourcehandler and fixhandler. Unit tests for operator commands, CLI plugin modes, registry credential helpers and report crypto. | [30+ merged PRs](https://github.com/kubescape/kubescape/pulls?q=is%3Apr+author%3Asapnilbiswas+is%3Amerged) |
-| [**Headlamp**](https://github.com/kubernetes-sigs/headlamp) | Kubernetes SIG UI | Security fixes in the backend and frontend: Content-Type check in `handleSetToken`, Referrer-Policy header, SPA index revalidation, URL scheme validation, OIDC token and claims verification before caching. Tests for `TimezoneSelect` and `TileChart`. | [15+ merged PRs](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3Asapnilbiswas+is%3Amerged), more open |
-| [**Drupal**](https://www.drupal.org/project/auto_translation_field) | Drupal.org | GSoC 2026 contributor and project maintainer. Built `auto_translation_field` (details below). | 55+ contribution credits |
-| [**Music Blocks**](https://github.com/sugarlabs/musicblocks) | Sugar Labs | Code reviewer and contributor to a block-based programming environment that teaches music and coding to kids. | [59+ merged PRs](https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+author%3Asapnilbiswas+is%3Amerged) |
-| [**ExtensionShield**](https://github.com/Stanzin7/ExtensionShield) | Independent | Maintainer. I own the API architecture. | See below |
+| Project | Where | What I work on |
+|---|---|---|
+| [**Kubescape**](https://github.com/kubescape/kubescape) | CNCF | Security hardening against unbounded input (CWE-400) in file reads, decrypt, pss, vap, resourcehandler and fixhandler. Unit tests for operator commands, CLI plugin modes, registry credential helpers and report crypto. |
+| [**Headlamp**](https://github.com/kubernetes-sigs/headlamp) | Kubernetes SIG UI | Security fixes in the backend and frontend: Content-Type check in `handleSetToken`, Referrer-Policy header, SPA index revalidation, URL scheme validation, OIDC token and claims verification before caching. Tests for `TimezoneSelect` and `TileChart`. |
+| [**Drupal**](https://www.drupal.org/project/auto_translation_field) | Drupal.org | GSoC 2026 contributor and project maintainer, with 55+ contribution credits. Built `auto_translation_field` (details below). |
+| [**Music Blocks**](https://github.com/sugarlabs/musicblocks) | Sugar Labs | Code reviewer and contributor to a block-based programming environment that teaches music and coding to kids. |
+| [**ExtensionShield**](https://github.com/Stanzin7/ExtensionShield) | Independent | Maintainer. I own the API architecture. |
 
 <br/>
 
